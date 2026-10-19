@@ -1,0 +1,3 @@
+initial: 2 failed [('/I2C_SCL', 'U3', '23'), ('/MOT2_PWM', 'R8', '1')]
+iter 0: 0 failed []
+written routes.json: 366 tracks, 127 vias, failed [] (138s)
