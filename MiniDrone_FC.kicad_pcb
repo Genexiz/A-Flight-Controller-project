@@ -16527,7 +16527,7 @@
 			)
 		)
 	)
-	(gr_text "GNX Robotics"
+	(gr_text "GNX Works"
 		(at 139 121.5 0)
 		(layer "B.SilkS")
 		(uuid "7545f73b-cec7-4ffc-b32d-f7db4dbb55a6")
